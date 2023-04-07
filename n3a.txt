@@ -1,0 +1,36 @@
+DIFFERENCES BETWEEN ANGULAR AND REACT
+
+ANGULAR:
+1. Sponsored by Google.
+2. It's the favourite of big enterprises.
+3. Incremental DOM.
+4. Dependency injection is supported.
+5. Supports both one way and two way binding.
+6. Perplexing for newbies.
+7. Easy to debug HTML.
+8. Compile-time error handling.
+9. Coded in TypeScript.
+10. Highly Opinionated.
+11. Full fledged E2E Framework.
+12. Slowly depreciating community support.
+13. It is Module based.
+14. Testing is done with karma test runner.
+15. Provides Ajax based SEO.
+
+
+REACT:
+1. Sponsored by Facebook.
+2. It's the favourite of startups.
+3. Virtual DOM.
+4. Does not fully enable dependency injection.
+5. Supports only one way binding.
+6. Simple to understand.
+7. Difficult to debug HTML.
+8. Runtime error handling.
+9. Coded in JavaScript(also supports Typescript).
+10. Unopinionated.
+11. View-only Framework.
+12. Great community support.
+13. It is component based.
+14. Testing is done with tools like Jest.
+15. Does not provide great SEO support.
